@@ -1,6 +1,7 @@
 # Cat Photo App
 
 A simple web application recreation from freeCodeCamp.org, built independently without any assistance, to upload and view cat photos.
+Review project for Kianna Artezuela.
 
 ## Table of Contents
 - [Description](#description)
